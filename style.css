@@ -1,0 +1,53 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:0%;
+    background-color: bisque;
+}
+
+h1{
+    margin-top: 20%;
+    color: brown;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+    text-align: center;
+}
+
+span{
+    font-size: 36px;
+    color: brown;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+
+#clock{
+    font-size: 100px;
+}
+
+#tumChangeHoJao{
+    font-style: italic;
+    font-weight: normal;
+}
+
+#bg{
+    height: 700px;
+    width: 700px;
+    background-color: burlywood;
+    border-radius: 350px;
+    position: absolute;
+    z-index: -1;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: -160px;
+}
+
+#location{
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
