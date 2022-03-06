@@ -1,3 +1,0 @@
-the page show "Motivation texts here"
-Then it starts from the second data of api
-it is not getting my location
